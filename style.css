@@ -1,0 +1,24 @@
+body{
+  background-color: crimson;
+}
+
+h1{
+  width: 100%;
+  background-color: blueviolet;
+  color: darkblue;
+}
+
+p{
+  color: darkblue;
+  width: 30%;
+  height: 30%;
+  background-color: salmon;
+}
+
+section{
+  height: 20%;
+}
+
+img{
+  width:30%;
+}
