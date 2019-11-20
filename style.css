@@ -9,16 +9,23 @@ h1{
 }
 
 p{
+  float: left;
   color: darkblue;
   width: 30%;
   height: 30%;
   background-color: salmon;
 }
 
-section{
+#js{
+  float: right;
+}
+
+
+#images{
+  clear: left;
   height: 20%;
 }
 
 img{
-  width:30%;
+  width:16%;
 }
